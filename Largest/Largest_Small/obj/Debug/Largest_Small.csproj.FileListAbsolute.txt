@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\bin\Debug\Largest_Small.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\bin\Debug\Largest_Small.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\bin\Debug\Largest_Small.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\obj\Debug\Largest_Small.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\obj\Debug\Largest_Small.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\obj\Debug\Largest_Small.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\obj\Debug\Largest_Small.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Basic Program\Largest_Small\Largest_Small\obj\Debug\Largest_Small.pdb
